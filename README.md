@@ -231,7 +231,7 @@ Metrics:
 ### Step 1: Clone Repository
 
 ```bash
-git clone[https://github.com/AnayG312005/StockSense-AI-Stock-Predictor.git]
+https://github.com/vijayakamboj5-max/StockSense-AI-Stock-Predictor.git
 cd Stock_Price_prediction
 ```
 
